@@ -33,6 +33,10 @@ $USER/.bash_history
 ### Windows
 ```
 C:\Users\{username}\APpData\Roaming\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt
+C:\Windows\System32\config\SAM
+C:\Windows\System32\config\SECURITY
+C:\Windows\System32\config\SYSTEM
+
 ```
 
 ## Registry 
