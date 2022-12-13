@@ -6,7 +6,10 @@
 /usr/share/wordlists
 /usr/share/seclists/Passwords/darkweb2017-top1000.txt
 ```
-
+## Hash detector
+https://hashes.com/en/tools/hash_identifier
+https://www.tunnelsup.com/hash-analyzer/
+https://www.dcode.fr/hash-identifier
 ## John the Ripper
 > Take note, john the ripper only accepts .hash type files. 
 
